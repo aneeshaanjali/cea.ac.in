@@ -4,7 +4,7 @@
 
 First off, thank you for considering contributing to this repo.
 
-Following these guidelines helps to communicate that you respect the time of the developers managing and developing this open source project. In return, they should reciprocate that respect in addressing your issue, assessing changes, and helping you finalize your pull requests.
+Following these guidelines helps to communicate that you respect the time of the developers managing and developing this open source project. In return, they should reciprocate that respect in addressing your issue, assessing changes, and helping you finalize your pull requests.//coding
 
 This website is an open source project and we welcome any contributions from our community! There are more ways to contribute that just fixing bugs and writing features - improving the design, submitting bug reports and opening issues are all great contributions and will be welcomed as much as any other.
 
